@@ -1,4 +1,3 @@
-redux/lessons/Lesson16/styles.ts
 import styled from "@emotion/styled";
 
 
