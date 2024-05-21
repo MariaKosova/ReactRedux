@@ -55,20 +55,3 @@ export const counterSliceSelectors = counterSlice.selectors;
 //     ...
 //   }
 // }
-
-
-
-
-//global state
-/*{
-    COUNTER: {
-    count:0
-    },
-
-    USER:{
-
-        
-    }
-*/
-
-
